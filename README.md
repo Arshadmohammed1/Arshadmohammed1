@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me Arshad@zedextechnologies.com
+- 📫 How to reach me arshad@zedextechnologies.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Well 
 
